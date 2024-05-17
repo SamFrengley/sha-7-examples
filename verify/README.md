@@ -1,0 +1,1 @@
+This directory contains code to verify the claims made in the paper. Note that the file `4-4-prop.m` takes (on our machine) about 45 minutes to terminate.
