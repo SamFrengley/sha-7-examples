@@ -1,4 +1,4 @@
-This is the GitHub repository containing code related to the paper [*Explicit 7-torsion in the Tate-Shafarevich groups of genus 2 Jacobians*](https://arxiv.org) by Sam Frengley [arXiv:??](https://arxiv.org).
+This is the GitHub repository containing code related to the paper [*Explicit 7-torsion in the Tate-Shafarevich groups of genus 2 Jacobians*](https://arxiv.org/abs/2405.11693) by Sam Frengley [arXiv:2405.11693](https://arxiv.org).
 
 Most of the code in this repository is written in [Magma](http://magma.maths.usyd.edu.au/magma/), some verifications are performed in [SageMath](https://www.sagemath.org). We have tested on Magma version 2.27-8.
 
